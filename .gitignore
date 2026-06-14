@@ -1,0 +1,15 @@
+# Composer
+/vendor/
+
+# PHPUnit
+/phpunit.xml
+
+# Environment variables
+.env
+.env.local
+
+# OS Metadata & IDEs
+.DS_Store
+.idea/
+.vscode/
+*.log
